@@ -1,2 +1,2 @@
 # prueba-trunk
-Se agregan cosas de verti copadas
+Se agregan cosas de verticalizacion copadas
